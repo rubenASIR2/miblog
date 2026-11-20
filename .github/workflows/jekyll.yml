@@ -1,13 +1,4 @@
 name: Desplegar sitio Jekyll en Pages
-on:
-push:
-branches: ["main"]
-workflow_dispatch:
-# permite lanzarlo a mano desde la pestaña Actions
-permissions:
-contents: read
-pages: write
-name: Desplegar sitio Jekyll en Pages
 
 on:
   push:
