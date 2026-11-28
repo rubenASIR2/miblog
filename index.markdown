@@ -5,3 +5,5 @@
 layout: home
 ---
 Bienvenidos a mis apuntes de Implantación de aplicaciones web
+Hecho por Rubén Marcos Cuadrado ASIR2
+[IMAGEN](/miblog/images/perfilgithub.jpg)
