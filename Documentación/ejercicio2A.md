@@ -714,11 +714,11 @@ ls -la docs/
 
 **Captura 12. Compilación del sitio en docs.**
 
-<!-- INSERTAR CAPTURA 12: comando de compilación y resultado -->
+[12](/Documentación/images2A/Captura12.png)
 
 **Captura 13. Contenido de docs y archivo .nojekyll.**
 
-<!-- INSERTAR CAPTURA 13: index.html, recursos y .nojekyll -->
+[13](/Documentación/images2A/Captura13.png)
 
 ### 4.2. Comprobar las rutas de los recursos
 
@@ -779,7 +779,7 @@ git add .
 Registro los cambios:
 
 ```bash
-git commit -m "Personalizacion y despliegue de Lagrange"
+git commit -m 
 ```
 
 Subo el contenido al repositorio remoto:
@@ -792,7 +792,7 @@ Una vez terminado, entro en GitHub y compruebo que aparece la carpeta `docs` con
 
 **Captura 14. Repositorio actualizado en GitHub.**
 
-<!-- INSERTAR CAPTURA 14: repositorio en GitHub, rama main y carpeta docs -->
+[14](/Documentación/images2A/Captura14.png)
 
 ### 5.2. Configurar GitHub Pages
 
@@ -811,14 +811,14 @@ El archivo `.nojekyll` evita que se vuelva a aplicar el procesamiento de Jekyll.
 
 **Captura 15. Configuración de GitHub Pages.**
 
-<!-- INSERTAR CAPTURA 15: Deploy from a branch, main y /docs -->
+[15](/Documentación/images2A/Captura15.png)
 
 ### 5.3. Comprobar la publicación
 
 Una vez guardada la configuración, accedo a la dirección del sitio:
 
 ```text
-https://USUARIO.github.io/actividad21-2A/
+https://rubenasir2.github.io/actividad21-2A/
 ```
 
 Sustituyo `USUARIO` por mi nombre de usuario de GitHub.
