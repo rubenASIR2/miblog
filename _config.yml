@@ -23,7 +23,8 @@ author: Rubén Cuadrado
 email: rcuadradou01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de prácticas del módulo Implantación de Aplicaciones Web
-baseurl: "/miblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rubenasir2.github.io"
 destination: _site  # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - docs
