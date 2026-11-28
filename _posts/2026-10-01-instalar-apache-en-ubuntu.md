@@ -19,5 +19,4 @@ sudo systemctl enable --now apache2
 systemctl status apache2
 curl -I http://localhost
 ```
-Si todo va bien, el navegador mostrará la página *It works!*
-(insertar imágenes apache-it-works.png, apache-logo.png).
+![IMAGEN](/miblog/assets/images/apache.jpg)

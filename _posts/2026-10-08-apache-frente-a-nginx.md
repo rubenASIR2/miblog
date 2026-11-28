@@ -19,3 +19,5 @@ Comparamos los dos servidores web más usados en Linux.
 | Contenido estático | Bueno
 | Muy eficiente
 |
+
+![IMAGEN](/miblog/assets/images/nginx-apache.png)

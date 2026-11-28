@@ -13,3 +13,4 @@ Levantamos un servidor Nginx dentro de un contenedor en un solo comando.
 docker run -d --name web -p 8080:80 nginx
 curl -I http://localhost:8080
 ```
+![IMAGEN](/miblog/assets/images/docker.jpg)
