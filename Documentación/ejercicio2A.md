@@ -268,7 +268,7 @@ Guardo los cambios.
 
 **Captura 6. Personalización de la página Sobre mí.**
 
-[6](/Documentación/images2A/Captura6.png)
+![6](/Documentación/images2A/Captura6.png)
 
 ### 2.5. Configurar la página de publicaciones
 
@@ -346,7 +346,7 @@ Esta página aparecerá en el menú gracias a la configuración realizada en `_d
 
 **Captura 7. Creación de la página Servidores y contenedores.**
 
-[7](/Documentación/images2A/Captura7.png)
+![7](/Documentación/images2A/Captura7.png)
 
 ### 2.7. Crear las publicaciones del ejercicio 1A
 
@@ -571,7 +571,7 @@ Conservo las fechas originales del ejercicio 1A para mantener el mismo orden cro
 
 **Captura 8. Creación de las publicaciones.**
 
-[8](/Documentación/images2A/Captura8.png)
+![8](/Documentación/images2A/Captura8.png)
 
 ### 2.8. Añadir imágenes a las páginas y publicaciones
 
@@ -601,7 +601,7 @@ Voy a utilizar cuatro imágenes relacionadas con las prácticas:
 
 **Captura 9. Imágenes incorporadas al proyecto.**
 
-[9](/Documentación/images2A/Captura9.png)
+![9](/Documentación/images2A/Captura9.png)
 
 ---
 
@@ -645,13 +645,13 @@ Cuando termino la comprobación, detengo el servidor con `Ctrl + C`.
 
 **Captura 10. Blog funcionando en local.**
 
-[10](/Documentación/images2A/Captura10.png)
+![10](/Documentación/images2A/Captura10.png)
 
 **Captura 11. Comprobación de publicaciones e imágenes.**
 
-[11](/Documentación/images2A/Captura11.png)
+![11](/Documentación/images2A/Captura11.png)
 
-[11](/Documentación/images2A/Captura11.1.png)
+![11](/Documentación/images2A/Captura11.1.png)
 
 ---
 
@@ -714,11 +714,11 @@ ls -la docs/
 
 **Captura 12. Compilación del sitio en docs.**
 
-[12](/Documentación/images2A/Captura12.png)
+![12](/Documentación/images2A/Captura12.png)
 
 **Captura 13. Contenido de docs y archivo .nojekyll.**
 
-[13](/Documentación/images2A/Captura13.png)
+![13](/Documentación/images2A/Captura13.png)
 
 ### 4.2. Comprobar las rutas de los recursos
 
@@ -792,7 +792,7 @@ Una vez terminado, entro en GitHub y compruebo que aparece la carpeta `docs` con
 
 **Captura 14. Repositorio actualizado en GitHub.**
 
-[14](/Documentación/images2A/Captura14.png)
+![14](/Documentación/images2A/Captura14.png)
 
 ### 5.2. Configurar GitHub Pages
 
@@ -811,7 +811,7 @@ El archivo `.nojekyll` evita que se vuelva a aplicar el procesamiento de Jekyll.
 
 **Captura 15. Configuración de GitHub Pages.**
 
-[15](/Documentación/images2A/Captura15.png)
+![15](/Documentación/images2A/Captura15.png)
 
 ### 5.3. Comprobar la publicación
 
@@ -827,7 +827,7 @@ Compruebo que el sitio se publica correctamente y que funcionan las diferentes s
 
 **Captura 16. Página principal publicada.**
 
-<!-- INSERTAR CAPTURA 16: portada del blog en GitHub Pages -->
+!
 
 **Captura 17. Página Sobre mí.**
 
