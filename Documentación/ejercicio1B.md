@@ -227,8 +227,6 @@ Accedo a otra página del sitio utilizando su enlace correspondiente. Compruebo 
 
 Por último, introduzco manualmente una dirección que no exista dentro del dominio del sitio.
 
-Compruebo que AWS muestra el documento `404.html` que he configurado anteriormente, en lugar de una página genérica de error.
-
 **Captura 10:** mostrar la página personalizada `404.html` al acceder a una dirección inexistente.
 
 ![10](/Documentación/images1B/paginanoexistente404.png)
