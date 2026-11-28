@@ -49,7 +49,7 @@ Los archivos que necesito son:
 **Captura 1:** ejecución de la compilación y la comprobación de los archivos `index.html` y `404.html`.
 
 --- 
-![1](/images/Captura1.png)
+![1](/miblog/Documentación/images/Captura1.png)
 
 
 ## 2. Crear y configurar el bucket en Amazon S3
@@ -72,7 +72,7 @@ Sigo estos pasos desde la consola de administración de AWS:
 7. Reviso la configuración y pulso **Crear bucket**.
 
 Una vez creado, compruebo que aparece correctamente en el listado de buckets.
-![2](/images/Captura2nombredelbuckets3.png)
+![2](/miblog/Documentación/images/Captura2nombredelbuckets3.png)
 
 ### 2.2. Desactivar el bloqueo del acceso público
 
@@ -92,7 +92,7 @@ Con esto permito que el bucket pueda tener objetos accesibles públicamente. Má
 
 **Captura 3:** mostrar la configuración del bloqueo del acceso público desactivada.
 
-![3](/images/Captura3accesopúblicoparaestebucket.png)
+![3](/miblog/Documentación/images/Captura3accesopúblicoparaestebucket.png)
 
 
 
@@ -129,7 +129,7 @@ Sustituyo `REGION` por el identificador real de la región seleccionada al crear
 
 **Captura 4:** alojamiento web estático habilitado, los documentos configurados y el endpoint generado por AWS.
 
-![4](/images/Captura4Alojamientositiowebestaticoactivado.png)
+![4](/miblog/Documentación/images/Captura4Alojamientositiowebestaticoactivado.png)
 
 ### 2.4. Configurar la política del bucket
 
@@ -164,7 +164,7 @@ Los permisos son únicamente de lectura. Los visitantes no pueden subir, modific
 
 **Captura 5:** mostrar la política JSON guardada correctamente en el apartado de permisos.
 
-![5](images/Captura5Politicabucketguardada.png)
+![5](/miblog/Documentación/images/Captura5Politicabucketguardada.png)
 
 ---
 
@@ -190,7 +190,7 @@ Cuando termina la carga, vuelvo a la pestaña **Objetos** y compruebo que aparec
 
 **Captura 6:** mostrar el listado de objetos después de completar la subida.
 
-![6](images/cargadobucket.png)
+![6](/miblog/Documentación/images/cargadobucket.png)
 
 ### 3.1. Comprobar que el blog funciona
 
@@ -204,7 +204,7 @@ Abro la dirección del endpoint y compruebo que aparece la portada del blog. Tam
 
 **Captura 7:** mostrar la página principal del blog publicada en S3.
 
-![7](images/Paginaprincipalweb.png)
+![7](/miblog/Documentación/images/Paginaprincipalweb.png)
 
 **Segunda comprobación: una entrada con imagen**
 
@@ -212,7 +212,7 @@ Accedo a una publicación que tenga una imagen y compruebo que tanto el texto co
 
 **Captura 8:** mostrar una entrada del blog que incluya una imagen.
 
-![8](images/Captura8Entradaconimagenens3.png)
+![8](/miblog/Documentación/images/Captura8Entradaconimagenens3.png)
 
 
 **Tercera comprobación: una página interna**
@@ -221,7 +221,7 @@ Accedo a otra página del sitio utilizando su enlace correspondiente. Compruebo 
 
 **Captura 9:** mostrar una página interna del blog.
 
-![9](images/Páginainternablogs3.png)
+![9](/miblog/Documentación/images/Páginainternablogs3.png)
 
 **Cuarta comprobación: página de error 404**
 
@@ -231,7 +231,7 @@ Compruebo que AWS muestra el documento `404.html` que he configurado anteriormen
 
 **Captura 10:** mostrar la página personalizada `404.html` al acceder a una dirección inexistente.
 
-![10](images/paginanoexistente404.png)
+![10](/miblog/Documentación/images/paginanoexistente404.png)
 
 
 ---
