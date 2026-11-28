@@ -827,31 +827,35 @@ Compruebo que el sitio se publica correctamente y que funcionan las diferentes s
 
 **Captura 16. Página principal publicada.**
 
-!
+![16](/Documentación/images2A/Captura16.png)
+
+![17](/Documentación/images2A/Captura17.png)
 
 **Captura 17. Página Sobre mí.**
 
-<!-- INSERTAR CAPTURA 17: presentación personal -->
+![17.1](/Documentación/images2A/Captura17.1.png)
 
 **Captura 18. Página Servidores y contenedores.**
 
-<!-- INSERTAR CAPTURA 18: página adicional con imagen -->
+![18](/Documentación/images2A/Captura18.png)
 
 **Captura 19. Listado de publicaciones.**
 
-<!-- INSERTAR CAPTURA 19: las tres entradas del blog -->
+![19](/Documentación/images2A/Captura19.png)
 
 **Captura 20. Publicación de Apache en Ubuntu Server.**
 
-<!-- INSERTAR CAPTURA 20: entrada de Apache con imagen -->
+![20](/Documentación/images2A/Captura20.png)
 
 **Captura 21. Publicación Apache frente a Nginx.**
 
-<!-- INSERTAR CAPTURA 21: comparativa y tabla -->
+
+![21](/Documentación/images2A/Captura21.png)
 
 **Captura 22. Publicación Mi primer contenedor Docker.**
 
-<!-- INSERTAR CAPTURA 22: entrada de Docker con imagen y comandos -->
+
+![22](/Documentación/images2A/Captura22.png)
 
 ---
 
