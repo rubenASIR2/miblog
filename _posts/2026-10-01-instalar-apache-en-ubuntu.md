@@ -19,4 +19,4 @@ sudo systemctl enable --now apache2
 systemctl status apache2
 curl -I http://localhost
 ```
-![IMAGEN](/miblog/assets/images/apache.jpg)
+![IMAGEN]({{ "/assets/images/apache.jpg" | relative_url }})

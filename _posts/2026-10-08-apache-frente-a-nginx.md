@@ -15,4 +15,4 @@ Comparamos los dos servidores web más usados en Linux.
 | Configuración      | `.htaccess` por carpeta| Centralizada       |
 | Contenido estático | Bueno                   | Muy eficiente      |
 
-![IMAGEN](/miblog/assets/images/nginx-apache.png)
+![IMAGEN]({{ "/assets/images/nginx-apache.png" | relative_url }})
