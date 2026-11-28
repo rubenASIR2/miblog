@@ -24,7 +24,7 @@ email: rcuadradou01@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de prácticas del módulo Implantación de Aplicaciones Web
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rubenasir2.github.io"
+url: "http://iaw-actividad21-1b-cuadradoruben.s3-website-us-east-1.amazonaws.com"
 destination: _site  # the base hostname & protocol for your site, e.g. http://example.com
 exclude:
   - docs
